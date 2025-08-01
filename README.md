@@ -19,4 +19,4 @@ This repository is compliant with the [REUSE specification](https://reuse.softwa
 
 Most of the source code (such as HTML and CSS files) is licensed under [version 3 of the GNU Affero General Public License](https://github.com/MymeType/mymetype.gay/blob/main/COPYING), with the option to use it under any later version. Certain files (such as this README and other additional supporting files)
 
-The contents of each page, such as text, images, videos, audio or any other type of multimedia, is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless specified. Content licensed under different terms will have their own terms pointed out in a small caption at the bottom.
+The contents of each page, such as text, images, videos, audio or any other type of multimedia, is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise specified. Content licensed under different terms will have their own terms pointed out in a small caption at the bottom.
