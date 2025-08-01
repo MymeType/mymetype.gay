@@ -1,3 +1,5 @@
+<!-- SPDX-FileCopyrightText: 2025 Alexandru Mihai Buzduc --> <lalibuzduc@gmail.com>
+<!-- SPDX-License-Identifier: FSFAP -->
 <!--
 Copyright 2025, Alexandru Mihai Buzduc
 
