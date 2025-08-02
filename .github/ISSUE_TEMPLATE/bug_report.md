@@ -1,3 +1,14 @@
+<!-- SPDX-FileCopyrightText: 2025 Alexandru Mihai Buzduc <lalibuzduc@gmail.com> -->
+<!-- SPDX-License-Identifier: FSFAP -->
+<!--
+Copyright 2025, Alexandru Mihai Buzduc <lalibuzduc@gmail.com>
+
+Copying and distribution of this file, with or without modification,
+are permitted in any medium without royalty provided the copyright
+notice and this notice are preserved.  This file is offered as-is,
+without any warranty.
+-->
+
 ---
 name: Bug report
 about: Create a report to help improve the website
@@ -12,6 +23,7 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 If possible, explain the steps to reproduce the behavior like in the example below:
+
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
@@ -25,9 +37,10 @@ If applicable, add screenshots to help explain your problem.
 
 **Device**
 Point out the details on what operating system and browser you were using when the bug occurred.
- - OS: [e.g. Linux]
- - Browser [e.g. GNOME Web/Epiphany]
- - Version [e.g. 48.5]
+
+- OS: [e.g. Linux]
+- Browser [e.g. GNOME Web/Epiphany]
+- Version [e.g. 48.5]
 
 **Additional context**
 Add any other context about the problem here.
