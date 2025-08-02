@@ -15,7 +15,7 @@ Source code for the new and improved personal website, now on Nekoweb. **Work in
 
 ## Licensing
 
-This repository is compliant with the [REUSE specification](https://reuse.software/), which specifies what license each file uses under the `SPDX-FileCopyrightText` field in the header of the source code or, in the case of binary files such as images and fonts and uncommentable files, a file with the `.license` suffix next to it containg the aforementioned field, and a copy of the license mentioned is available in the `LICENSES` directory.
+This repository is compliant with the [REUSE specification](https://reuse.software/), which specifies what license each file uses under the `SPDX-FileCopyrightText` field in the header of the source code or, in the case of binary files (such as images and fonts) and uncommentable files, a file with the `.license` suffix next to it containg the aforementioned field, and a copy of the license mentioned is available in the `LICENSES` directory.
 
 Most of the source code (such as HTML and CSS files) is licensed under [version 3 of the GNU Affero General Public License](https://github.com/MymeType/mymetype.gay/blob/main/COPYING) (SPDX license identifier: `AGPL-3.0-or-later`), with the option to use it under any later version. Any other file licensed otherwise (such as this README and other supporting files such as GitHub Actions workflows) may be licensed under more permissive licenses.
 
