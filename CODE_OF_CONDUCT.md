@@ -1,6 +1,5 @@
 <!-- SPDX-FileCopyrightText: 2025 Alexandru Mihai Buzduc <lalibuzduc@gmail.com> -->
-<!-- SPDX-FileCopyrightText: 2025 Organization for Ethical Source-->
-<!-- SPDX-License-Identifier: FSFAP -->
+<!-- SPDX-License-Identifier: CC0-1.0 -->
 
 # Contributor Covenant Code of Conduct
 
