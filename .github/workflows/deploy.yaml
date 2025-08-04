@@ -3,6 +3,9 @@
 
 name: deploy2nekoweb
 
+permissions:
+  contents: read
+
 on: [push]
 
 jobs:
